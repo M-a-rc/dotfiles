@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mrc.delesalle@gmail.com
+	name = Marc Delesalle
